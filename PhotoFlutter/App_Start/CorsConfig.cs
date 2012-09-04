@@ -30,7 +30,7 @@ namespace PhotoFlutter
 
                 .ForResources("Products")
 
-                .ForOrigins("http://jsfiddle.net")
+                .ForOrigins("http://loganweilenman.com")
 
                 .AllowAll();
 
