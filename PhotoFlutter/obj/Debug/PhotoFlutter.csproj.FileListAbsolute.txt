@@ -34,3 +34,7 @@ C:\GitProjects\PhotoFlutter\PhotoFlutter\bin\System.Web.WebPages.Deployment.xml
 C:\GitProjects\PhotoFlutter\PhotoFlutter\bin\System.Web.WebPages.Razor.xml
 C:\GitProjects\PhotoFlutter\PhotoFlutter\obj\Debug\PhotoFlutter.dll
 C:\GitProjects\PhotoFlutter\PhotoFlutter\obj\Debug\PhotoFlutter.pdb
+C:\GitProjects\PhotoFlutter\PhotoFlutter\bin\Microsoft.IdentityModel.dll
+C:\GitProjects\PhotoFlutter\PhotoFlutter\bin\Thinktecture.IdentityModel.dll
+C:\GitProjects\PhotoFlutter\PhotoFlutter\bin\Thinktecture.IdentityModel.pdb
+C:\GitProjects\PhotoFlutter\PhotoFlutter\bin\Thinktecture.IdentityModel.xml
